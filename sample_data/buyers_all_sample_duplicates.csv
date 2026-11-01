@@ -1,0 +1,2 @@
+buyer_id,company_name,country,website,buyer_type,main_business,sells_bluetooth_earbuds,public_contact,contact_source,discovered_date,match_score,score_basis,status,next_action,next_followup_date,last_contact_date,replies,quote_sent,notes,_dup_of
+B005,Example Audio Wholesale Ltd,GB,www.audio-wholesale.example.com,distributor,Consumer audio wholesale,Yes,sales@example.com,Search result (fictional sample),2026-11-01,90,Duplicate of B001 collected in a second batch with a different URL spelling,待联系,,,,,,recently expanded its TWS category with three new models under £30,B001

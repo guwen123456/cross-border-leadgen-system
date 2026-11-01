@@ -1,0 +1,2 @@
+order_id,order_date,buyer_id,buyer_name,product_model,quantity,supplier_id,unit_sale_price_usd,sale_total_usd,unit_purchase_cost_cny,purchase_total_cny,domestic_freight_cny,intl_freight_usd,platform_or_payment_fees_usd,after_sales_reserve_usd,fx_rate_cny_per_usd,gross_profit_usd,gross_margin_pct,customer_payment_status,supplier_payment_status,shipment_status,tracking_number,carrier,signed_date,notes
+ORD-20261101-001,,,,,,,,,,,,,,,,,,未付款,未付款,未发货,,,,
